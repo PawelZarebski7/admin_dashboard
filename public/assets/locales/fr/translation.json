@@ -1,0 +1,25 @@
+{
+    "welcome_react": "Paris",
+    "login": "Login",
+    "login_button": "Connexion",
+    "login_fb": "Connectez-vous avec Facebook",
+    "login_google": "Connectez-vous avec Google",
+    "create_account": "Activer le compte",
+    "forgot_password": "Mot de passe oublié?",
+    "password": "Mot de passe",
+    "forgot_password_site": "Rétablir mot de passe",
+    "recover_password": "Défiir un nouveau mot de passe",
+    "already_have_an_account": "Vous avez déjà un compte ? Se connecter",
+    "create_account_site": "Inscription",
+    "name": "Nom",
+    "staff_role": "Rôle des employés",
+    "privacy_policy_desc": "Accepter les conditions d'utilisation et",
+    "privacy_policy": "la politique de confidentialité",
+    "create_an_account_button": "Créer un compte",
+    "logout": "Déconnexion",
+    "all_staff": "Tout le personnel",
+    "search_by_name": "Recherche par nom/email/téléphone",
+    "add_employee": "Ajouter un employé",
+    "sorry_we_can_not_find_this_employee": "Désolé, nous ne pouvons pas trouver cet employé"
+    
+}
